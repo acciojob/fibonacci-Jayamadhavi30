@@ -1,6 +1,6 @@
 function fibonacci(num) {
 // your code here
-	if(num ===1) return 0
+	if(num <=2) return n-1;
 
 }
 
